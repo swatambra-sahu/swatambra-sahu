@@ -39,7 +39,7 @@ Actively seeking **Software Engineer / Cloud / Backend** opportunities.
 - **Languages:** Python, Java, C, C++, MySQL  
 - **ML & Data:** NumPy, Pandas, Scikit-learn, Matplotlib  
 - **Cloud:** AWS (S3, Lambda, SNS)  
-- **Web:** HTML, CSS, JavaScript (basic)  
+- **Web:** HTML  
 - **CS Core:** DSA, OOPS, DBMS, OS, CN  
 
 ---
