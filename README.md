@@ -98,24 +98,11 @@ Java Swing + MySQL desktop application that predicts diseases from symptoms and 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/swatambra_sahu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swatambrasahu@gmail.com)
 
-> *(Add your Portfolio badge here once your portfolio is live.)*
 
 ---
 
-### 💬 GitHub Bio (≤160 characters)
-
-**Software Engineer | MCA @ IGDTUW | Backend • ML • AWS | Building scalable software, solving DSA problems & contributing to open source.**
-
----
-
-## 📌 Suggested Pinned Repositories
-
-1. 🛡️ Threat Shield
-2. 📄 AI Resume Analyzer
-3. ☁️ Serverless Image Optimizer
-
----
+⭐ *Open to internships and full-time roles in Software Development & Cloud Engineering.*
 
 ⭐ *Thanks for visiting! Let's build impactful software together.*
 
-<!-- README generated from your resume. :contentReference[oaicite:0]{index=0} -->
+
