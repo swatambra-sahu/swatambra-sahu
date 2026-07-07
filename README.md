@@ -81,16 +81,6 @@ Java Swing + MySQL desktop application that predicts diseases from symptoms and 
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=swatambra-sahu&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=swatambra-sahu&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swatambra-sahu&layout=compact&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/swatambra-sahu)
