@@ -111,6 +111,10 @@ An ML-powered resume analysis platform that provides ATS-style evaluation and jo
 - 🧠 Detects missing skills and provides structured AI feedback
 - ⚡ Provides insights on resume clarity, formatting and job-role relevance
 
+
+🔗 **[GitHub](https://github.com/swatambra-sahu/AI_Resume_Analyzer)** · **[Demo](https://www.youtube.com/watch?v=uvxFvipcZGc)**
+
+
 ---
 
 ### ☁️ Serverless Image Optimizer
@@ -124,6 +128,10 @@ A serverless image-processing workflow that automatically handles uploaded image
 - 🖼️ Performs automatic image resizing and optimization
 - 📧 Uses **SNS notifications** for real-time processing updates
 - 🔗 Designed for seamless integration with web applications
+
+  
+🔗 **[GitHub](https://github.com/swatambra-sahu/AWS-Cloud)**
+
 
 ---
 
