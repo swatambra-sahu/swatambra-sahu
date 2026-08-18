@@ -95,6 +95,8 @@ An ML-powered cybersecurity system for detecting malicious URLs in real time.
 - 🧩 Integrated predictions into a **Chrome Extension**
 - ☁️ Deployed cloud-hosted APIs using PythonAnywhere
 
+🔗 **[GitHub](https://github.com/swatambra-sahu/Malicious-URL-Detection)** · **[Live Demo](https://swatambra.pythonanywhere.com/)**
+
 ---
 
 ### 📄 AI Resume Analyzer
