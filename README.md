@@ -12,12 +12,13 @@ I enjoy working across **backend engineering, machine learning, full-stack devel
 
 ## 🚀 About Me
 
-- 🎓 **MCA @ IGDTUW** — CGPA: **9.55/10**
+- 🎓 **MCA @ IGDTUW** - CGPA: **9.55/10**
+- 🎓 **UGC NET Qualified** - Percentile: **95.55**
 - 💻 Interested in **Software Engineering, Backend Development, ML & Cloud**
 - 🔧 Currently working with **Node.js, Express.js, React.js & GenAI**
 - 🧠 Strong foundations in **DSA, OOP, DBMS, OS & Computer Networks**
 - ☁️ Exploring **AWS, scalable backend systems & system design**
-- 🌐 Open Source Contributor — **GDG IGDTUW SSWoC 2026**
+- 🌐 Open Source Contributor - **GDG IGDTUW SSWoC 2026**
 - 🤝 Open to **Software Engineering Internships & Full-Time Opportunities**
 
 ---
